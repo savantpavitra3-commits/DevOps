@@ -3,6 +3,5 @@ public class DEMO {
         System.out.println("Welcome to Java");
         System.out.println("Welcome to DevOps");
         System.out.println("Git is Fun");
-	System.out.println("GitHub push practical completed");
     }
 }
